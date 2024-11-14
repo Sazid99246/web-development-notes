@@ -1,7 +1,9 @@
 # HTML and CSS Crash Course
 
 Here are my notes from the HTML and CSS Crash Course
-1. [Building Blocks of the Web](1.%20Building%20Blocks%20of%20the%20Web)
-2. [HTML and its Syntax](2.%20HTML%20and%20its%20Syntax)
-3. [HTML Tags](3.%20HTML%20Tags)
-4. [HTML Attributes](4.%20HTML%20Attributes)
+1. [Building Blocks of the Web](1.%20Building%20Blocks%20of%20the%20Web.md)
+2. [HTML and its Syntax](2.%20HTML%20and%20its%20Syntax.md)
+3. [HTML Tags](3.%20HTML%20Tags.md)
+4. [HTML Attributes](4.%20HTML%20Attributes.md)
+5. [CSS Basics](5.%20CSS%20Basics.md)
+6. [CSS Properties](6.%20CSS%20Properties.md)
