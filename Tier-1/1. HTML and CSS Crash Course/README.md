@@ -9,3 +9,5 @@ Here are my notes from the HTML and CSS Crash Course
 6. [CSS Properties](6.%20CSS%20Properties.md)
 7. [CSS Colors](7.%20CSS%20Colors.md)
 8. [HTML Lists](8.%20HTML%20Lists.md)
+9. [CSS Selectors](9.%20CSS%20Selectors.md)
+10. [Comments](10.%20Comments.md)
