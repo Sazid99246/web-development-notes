@@ -7,3 +7,5 @@ Here are my notes from the HTML and CSS Crash Course
 4. [HTML Attributes](4.%20HTML%20Attributes.md)
 5. [CSS Basics](5.%20CSS%20Basics.md)
 6. [CSS Properties](6.%20CSS%20Properties.md)
+7. [CSS Colors](7.%20CSS%20Colors.md)
+8. [HTML Lists](8.%20HTML%20Lists.md)
