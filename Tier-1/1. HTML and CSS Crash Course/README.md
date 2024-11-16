@@ -11,3 +11,4 @@ Here are my notes from the HTML and CSS Crash Course
 8. [HTML Lists](8.%20HTML%20Lists.md)
 9. [CSS Selectors](9.%20CSS%20Selectors.md)
 10. [Comments](10.%20Comments.md)
+11. [CSS Box Model](11.%20CSS%20Box%20Model.md)
