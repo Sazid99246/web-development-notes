@@ -4,3 +4,4 @@ Here, I will put all my notes learning with [P1xt Guides](https://github.com/p1x
 
 Tier-1
 1. [HTML & CSS Crash Course](Tier-1/1.%20HTML%20and%20CSS%20Crash%20Course/)
+2. [Learn Flexbox](Tier-1/2.%20Learn%20Flexbox/)
